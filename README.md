@@ -53,8 +53,10 @@ seta 0x8BF035B2 "1"
 </code></pre></div>
 
 <br>
-# Screen Shots By:
+# Most of the Screen Shots Are By:
 - <a href="https://discordapp.com/users/516126717774135297"> Zomb935 <\a>
+
+# The Rest is By Me.
 <br>
 
 ![Charlie_Dont_Surf_Pic_1](https://github.com/user-attachments/assets/a52db417-de59-4cd2-a405-0fb202be9709)
