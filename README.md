@@ -57,7 +57,7 @@ seta 0x8BF035B2 "1"
 
 - <a href="https://discordapp.com/users/516126717774135297"> Zomb935 </a>
 
-- The Rest is By Me.
+- The Rest Are By Me.
 <br>
 
 ![Charlie_Dont_Surf_Pic_1](https://github.com/user-attachments/assets/a52db417-de59-4cd2-a405-0fb202be9709)
